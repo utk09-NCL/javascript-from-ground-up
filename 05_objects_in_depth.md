@@ -259,4 +259,4 @@ const event = {
 
 ---
 
-[Previous Module: 04_scope_hoisting_and_closures.md](04_scope_hoisting_and_closures.md) | [Next Module: 06_Prototypes_and_classes.md](06_Prototypes_and_classes.md)
+[Previous Module: 04_scope_hoisting_and_closures.md](04_scope_hoisting_and_closures.md) | [Next Module: 06_prototypes_and_classes.md](06_prototypes_and_classes.md)

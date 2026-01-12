@@ -440,4 +440,4 @@ Each returned object has methods that are closures. They remember their specific
 
 ---
 
-[Previous Module: 03_coercion_and_equality.md](03_coercion_and_equality.md) | [Next Module: 05_Objects_in_depth.md](05_Objects_in_depth.md)
+[Previous Module: 03_coercion_and_equality.md](03_coercion_and_equality.md) | [Next Module: 05_objects_in_depth.md](05_objects_in_depth.md)
